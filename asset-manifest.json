@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Axios-API-fetch-example/static/css/main.767097fa.css",
+    "main.js": "/Axios-API-fetch-example/static/js/main.9fa98a6b.js",
+    "index.html": "/Axios-API-fetch-example/index.html",
+    "main.767097fa.css.map": "/Axios-API-fetch-example/static/css/main.767097fa.css.map",
+    "main.9fa98a6b.js.map": "/Axios-API-fetch-example/static/js/main.9fa98a6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.767097fa.css",
+    "static/js/main.9fa98a6b.js"
+  ]
+}
