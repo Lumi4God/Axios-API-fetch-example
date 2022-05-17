@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Axios-API-fetch-example/static/css/main.767097fa.css",
-    "main.js": "/Axios-API-fetch-example/static/js/main.9fa98a6b.js",
-    "index.html": "/Axios-API-fetch-example/index.html",
-    "main.767097fa.css.map": "/Axios-API-fetch-example/static/css/main.767097fa.css.map",
-    "main.9fa98a6b.js.map": "/Axios-API-fetch-example/static/js/main.9fa98a6b.js.map"
+    "main.css": "/React-axios-API-fetch-example/static/css/main.a474f5c2.css",
+    "main.js": "/React-axios-API-fetch-example/static/js/main.9fa98a6b.js",
+    "index.html": "/React-axios-API-fetch-example/index.html",
+    "main.a474f5c2.css.map": "/React-axios-API-fetch-example/static/css/main.a474f5c2.css.map",
+    "main.9fa98a6b.js.map": "/React-axios-API-fetch-example/static/js/main.9fa98a6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.767097fa.css",
+    "static/css/main.a474f5c2.css",
     "static/js/main.9fa98a6b.js"
   ]
 }
